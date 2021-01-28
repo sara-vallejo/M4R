@@ -6,7 +6,7 @@ In dHSIC_continents.ipynb we have the first version with code for computing dHSI
 
 In dHSIC_groupings.ipynb similar computations are done but experimenting on different groupings of countries (e.g. Low income).
 
-In dHSIC_continents_MC.ipynb, we make a change in the permutation test. We consider a Monte Carlo approximation as described in https://arxiv.org/abs/1603.00285. This would be more appropiate than what was explained before, since we are not computing all n!^d permutations, but instead a lower number $B$.
+In dHSIC_continents_MC.ipynb, we make a change in the permutation test. We consider a Monte Carlo approximation as described in https://arxiv.org/abs/1603.00285. This would be more appropiate than what was explained before, since we are not computing all n!^d permutations, but instead a lower number B.
 
 In dHSIC_continents_normalised we introduce a normalisation for normal HSIC statistic, which corresponds to the distance correlation. Moreover, a slight modification in our previous code has made so that the Kernel matrices are precomputed and the algorithm is more efficient. Visualitations for both the 2-way graph and the hypergraphs are available.
 
