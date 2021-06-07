@@ -1,4 +1,11 @@
 # M4R
 
-Notebooks for preparaing data and imputing missing values are Data_preparation.ipynb and Imputations.ipynb.
+# 0. Data imputation and preparation
+
+
+# 1. Computation of dHSIC on SDG data
+
+# 2. Visualisation of networks and hypergraphs. Computation of eigenvector centralities.
+
+# 3. Proposed normalisation of dHSIC (dHcor)
 
