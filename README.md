@@ -20,7 +20,7 @@ We use World's Bank data set: https://databank.worldbank.org/source/sustainable-
 ### 2. Visualisation of networks and hypergraphs. Computation of eigenvector centralities.
 - 2.Network_plots: Plots of weighted networks and of their eigenvector centralities.
 - 2.Complete_hypergraphs_plots: Plots of full hypergraphs (i.e. with all levels of dependencies)
-- 2.Restricted_hx_plots_and_eig_centralities_CONTINENTS: Plots of hypergraphs for each level of dependence (i.e. 3-way hyperedges, 4-way hyperedges...). Computtion of eigenvector centralities for these sub-hypergraphs. For geographical groupings.
+- 2.Restricted_hx_plots_and_eig_centralities_CONTINENTS: Plots of hypergraphs for each level of dependence (i.e. 3-way hyperedges, 4-way hyperedges...). Computation of eigenvector centralities for these sub-hypergraphs. For geographical groupings.
 - 2.Restricted_hx_plots_and_eig_centralities_INCOME: Same for income-based groupings.
 
 ### 3. Proposed normalisation of dHSIC (dHcor)
