@@ -1,0 +1,177 @@
+Northern Africa,Eastern Africa,Middle Africa,Southern Africa,Western Africa,Sub-Saharan Africa,Africa,Caribbean,Central America,South America,Latin America and the Caribbean,North America,Americas,Central and Eastern Asia,South-eastern Asia,Southern Asia,Western Asia,Asia,Eastern Europe,Northern Europe,Southern Europe,Western Europe,Europe,Australia and New Zealand,Oceania (excl. AUS + NZ),Oceania (incl. AUS + NZ),World
+Algeria,Burundi,Angola,Botswana,Benin,Burundi,Algeria,Antigua and Barbuda,Belize,Argentina,Antigua and Barbuda,Canada,Antigua and Barbuda,China,Brunei Darussalam,Afghanistan,Armenia,Kazakhstan,Belarus,Denmark,Albania,Austria,Belarus,Australia,Fiji,Australia,Algeria
+"Egypt, Arab Rep.",Comoros,Cameroon,Lesotho,Burkina Faso,Comoros,"Egypt, Arab Rep.","Bahamas, The",Costa Rica,Bolivia,"Bahamas, The",United States,"Bahamas, The",Japan,Cambodia,Bangladesh,Azerbaijan,Kyrgyz Republic,Bulgaria,Estonia,Bosnia and Herzegovina,Belgium,Bulgaria,New Zealand,Papua New Guinea,New Zealand,"Egypt, Arab Rep."
+Morocco,Djibouti,Central African Republic,Namibia,Cote d'Ivoire,Djibouti,Morocco,Barbados,El Salvador,Brazil,Barbados,,Barbados,Mongolia,Indonesia,Bhutan,Bahrain,Tajikistan,Czech Republic,Finland,Croatia,France,Czech Republic,,Solomon Islands,Fiji,Morocco
+Tunisia,Eritrea,Chad,South Africa,"Gambia, The",Eritrea,Tunisia,Cuba,Guatemala,Chile,Cuba,,Cuba,"Korea, Rep.",Lao PDR,India,Cyprus,Turkmenistan,Hungary,Iceland,Greece,Germany,Hungary,,Vanuatu,Papua New Guinea,Tunisia
+,Ethiopia,"Congo, Rep.",,Ghana,Ethiopia,Burundi,Dominica,Honduras,Colombia,Dominica,,Dominica,Kazakhstan,Malaysia,"Iran, Islamic Rep.",Georgia,Uzbekistan,Poland,Ireland,Italy,Luxembourg,Poland,,"Micronesia, Fed. Sts.",Solomon Islands,Burundi
+,Kenya,"Congo, Dem. Rep.",,Guinea-Bissau,Kenya,Comoros,Grenada,Mexico,Ecuador,Grenada,,Grenada,Kyrgyz Republic,Myanmar,Maldives,Iraq,China,Moldova,Latvia,Malta,Netherlands,Moldova,,Palau,Vanuatu,Comoros
+,Madagascar,Equatorial Guinea,,Liberia,Madagascar,Djibouti,Haiti,Nicaragua,Guyana,Haiti,,Haiti,Tajikistan,Philippines,Nepal,Israel,Japan,Romania,Lithuania,Montenegro,Switzerland,Romania,,Kiribati,"Micronesia, Fed. Sts.",Djibouti
+,Malawi,Gabon,,Mali,Malawi,Eritrea,Jamaica,Panama,Paraguay,Jamaica,,Jamaica,Turkmenistan,Singapore,Pakistan,Jordan,Mongolia,Russian Federation,Norway,Portugal,,Russian Federation,,Samoa,Palau,Eritrea
+,Mauritius,Sao Tome and Principe,,Mauritania,Mauritius,Ethiopia,Puerto Rico,,Peru,Puerto Rico,,Puerto Rico,Uzbekistan,Thailand,Sri Lanka,Kuwait,Brunei Darussalam,Slovak Republic,Sweden,Serbia,,Slovak Republic,,Tonga,Kiribati,Ethiopia
+,Mozambique,,,Niger,Mozambique,Kenya,Trinidad and Tobago,,Suriname,Trinidad and Tobago,,Trinidad and Tobago,,Timor-Leste,,Lebanon,Cambodia,Ukraine,United Kingdom,Slovenia,,Ukraine,,Tuvalu,Samoa,Kenya
+,Rwanda,,,Nigeria,Rwanda,Madagascar,,,Uruguay,Belize,,Belize,,Vietnam,,Oman,Indonesia,,,Spain,,Denmark,,,Tonga,Madagascar
+,Seychelles,,,Senegal,Seychelles,Malawi,,,"Venezuela, RB",Costa Rica,,Costa Rica,,,,Qatar,Lao PDR,,,,,Estonia,,,Tuvalu,Malawi
+,Somalia,,,Sierra Leone,Somalia,Mauritius,,,,El Salvador,,El Salvador,,,,Saudi Arabia,Malaysia,,,,,Finland,,,,Mauritius
+,South Sudan,,,Togo,South Sudan,Mozambique,,,,Guatemala,,Guatemala,,,,Syrian Arab Republic,Myanmar,,,,,Iceland,,,,Mozambique
+,Uganda,,,,Uganda,Rwanda,,,,Honduras,,Honduras,,,,Turkey,Philippines,,,,,Ireland,,,,Rwanda
+,Tanzania,,,,Tanzania,Seychelles,,,,Mexico,,Mexico,,,,United Arab Emirates,Singapore,,,,,Latvia,,,,Seychelles
+,Zambia,,,,Zambia,Somalia,,,,Nicaragua,,Nicaragua,,,,"Yemen, Rep.",Thailand,,,,,Lithuania,,,,Somalia
+,Zimbabwe,,,,Zimbabwe,South Sudan,,,,Panama,,Panama,,,,,Timor-Leste,,,,,Norway,,,,South Sudan
+,,,,,Angola,Uganda,,,,Argentina,,Argentina,,,,,Vietnam,,,,,Sweden,,,,Uganda
+,,,,,Cameroon,Tanzania,,,,Bolivia,,Bolivia,,,,,Afghanistan,,,,,United Kingdom,,,,Tanzania
+,,,,,Central African Republic,Zambia,,,,Brazil,,Brazil,,,,,Bangladesh,,,,,Albania,,,,Zambia
+,,,,,Chad,Zimbabwe,,,,Chile,,Chile,,,,,Bhutan,,,,,Bosnia and Herzegovina,,,,Zimbabwe
+,,,,,"Congo, Rep.",Angola,,,,Colombia,,Colombia,,,,,India,,,,,Croatia,,,,Angola
+,,,,,"Congo, Dem. Rep.",Cameroon,,,,Ecuador,,Ecuador,,,,,"Iran, Islamic Rep.",,,,,Greece,,,,Cameroon
+,,,,,Equatorial Guinea,Central African Republic,,,,Guyana,,Guyana,,,,,Maldives,,,,,Italy,,,,Central African Republic
+,,,,,Gabon,Chad,,,,Paraguay,,Paraguay,,,,,Nepal,,,,,Malta,,,,Chad
+,,,,,Sao Tome and Principe,"Congo, Rep.",,,,Peru,,Peru,,,,,Pakistan,,,,,Montenegro,,,,"Congo, Rep."
+,,,,,Botswana,"Congo, Dem. Rep.",,,,Suriname,,Suriname,,,,,Sri Lanka,,,,,Portugal,,,,"Congo, Dem. Rep."
+,,,,,Lesotho,Equatorial Guinea,,,,Uruguay,,Uruguay,,,,,Armenia,,,,,Serbia,,,,Equatorial Guinea
+,,,,,Namibia,Gabon,,,,"Venezuela, RB",,"Venezuela, RB",,,,,Azerbaijan,,,,,Slovenia,,,,Gabon
+,,,,,South Africa,Sao Tome and Principe,,,,,,Canada,,,,,Bahrain,,,,,Spain,,,,Sao Tome and Principe
+,,,,,Benin,Botswana,,,,,,United States,,,,,Cyprus,,,,,Austria,,,,Botswana
+,,,,,Burkina Faso,Lesotho,,,,,,,,,,,Georgia,,,,,Belgium,,,,Lesotho
+,,,,,Cote d'Ivoire,Namibia,,,,,,,,,,,Iraq,,,,,France,,,,Namibia
+,,,,,"Gambia, The",South Africa,,,,,,,,,,,Israel,,,,,Germany,,,,South Africa
+,,,,,Ghana,Benin,,,,,,,,,,,Jordan,,,,,Luxembourg,,,,Benin
+,,,,,Guinea-Bissau,Burkina Faso,,,,,,,,,,,Kuwait,,,,,Netherlands,,,,Burkina Faso
+,,,,,Liberia,Cote d'Ivoire,,,,,,,,,,,Lebanon,,,,,Switzerland,,,,Cote d'Ivoire
+,,,,,Mali,"Gambia, The",,,,,,,,,,,Oman,,,,,,,,,"Gambia, The"
+,,,,,Mauritania,Ghana,,,,,,,,,,,Qatar,,,,,,,,,Ghana
+,,,,,Niger,Guinea-Bissau,,,,,,,,,,,Saudi Arabia,,,,,,,,,Guinea-Bissau
+,,,,,Nigeria,Liberia,,,,,,,,,,,Syrian Arab Republic,,,,,,,,,Liberia
+,,,,,Senegal,Mali,,,,,,,,,,,Turkey,,,,,,,,,Mali
+,,,,,Sierra Leone,Mauritania,,,,,,,,,,,United Arab Emirates,,,,,,,,,Mauritania
+,,,,,Togo,Niger,,,,,,,,,,,"Yemen, Rep.",,,,,,,,,Niger
+,,,,,,Nigeria,,,,,,,,,,,,,,,,,,,,Nigeria
+,,,,,,Senegal,,,,,,,,,,,,,,,,,,,,Senegal
+,,,,,,Sierra Leone,,,,,,,,,,,,,,,,,,,,Sierra Leone
+,,,,,,Togo,,,,,,,,,,,,,,,,,,,,Togo
+,,,,,,,,,,,,,,,,,,,,,,,,,,Antigua and Barbuda
+,,,,,,,,,,,,,,,,,,,,,,,,,,"Bahamas, The"
+,,,,,,,,,,,,,,,,,,,,,,,,,,Barbados
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cuba
+,,,,,,,,,,,,,,,,,,,,,,,,,,Dominica
+,,,,,,,,,,,,,,,,,,,,,,,,,,Grenada
+,,,,,,,,,,,,,,,,,,,,,,,,,,Haiti
+,,,,,,,,,,,,,,,,,,,,,,,,,,Jamaica
+,,,,,,,,,,,,,,,,,,,,,,,,,,Puerto Rico
+,,,,,,,,,,,,,,,,,,,,,,,,,,Trinidad and Tobago
+,,,,,,,,,,,,,,,,,,,,,,,,,,Belize
+,,,,,,,,,,,,,,,,,,,,,,,,,,Costa Rica
+,,,,,,,,,,,,,,,,,,,,,,,,,,El Salvador
+,,,,,,,,,,,,,,,,,,,,,,,,,,Guatemala
+,,,,,,,,,,,,,,,,,,,,,,,,,,Honduras
+,,,,,,,,,,,,,,,,,,,,,,,,,,Mexico
+,,,,,,,,,,,,,,,,,,,,,,,,,,Nicaragua
+,,,,,,,,,,,,,,,,,,,,,,,,,,Panama
+,,,,,,,,,,,,,,,,,,,,,,,,,,Argentina
+,,,,,,,,,,,,,,,,,,,,,,,,,,Bolivia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Brazil
+,,,,,,,,,,,,,,,,,,,,,,,,,,Chile
+,,,,,,,,,,,,,,,,,,,,,,,,,,Colombia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Ecuador
+,,,,,,,,,,,,,,,,,,,,,,,,,,Guyana
+,,,,,,,,,,,,,,,,,,,,,,,,,,Paraguay
+,,,,,,,,,,,,,,,,,,,,,,,,,,Peru
+,,,,,,,,,,,,,,,,,,,,,,,,,,Suriname
+,,,,,,,,,,,,,,,,,,,,,,,,,,Uruguay
+,,,,,,,,,,,,,,,,,,,,,,,,,,"Venezuela, RB"
+,,,,,,,,,,,,,,,,,,,,,,,,,,Canada
+,,,,,,,,,,,,,,,,,,,,,,,,,,United States
+,,,,,,,,,,,,,,,,,,,,,,,,,,Kazakhstan
+,,,,,,,,,,,,,,,,,,,,,,,,,,Kyrgyz Republic
+,,,,,,,,,,,,,,,,,,,,,,,,,,Tajikistan
+,,,,,,,,,,,,,,,,,,,,,,,,,,Turkmenistan
+,,,,,,,,,,,,,,,,,,,,,,,,,,Uzbekistan
+,,,,,,,,,,,,,,,,,,,,,,,,,,China
+,,,,,,,,,,,,,,,,,,,,,,,,,,Japan
+,,,,,,,,,,,,,,,,,,,,,,,,,,Mongolia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Brunei Darussalam
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cambodia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Indonesia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Lao PDR
+,,,,,,,,,,,,,,,,,,,,,,,,,,Malaysia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Myanmar
+,,,,,,,,,,,,,,,,,,,,,,,,,,Philippines
+,,,,,,,,,,,,,,,,,,,,,,,,,,Singapore
+,,,,,,,,,,,,,,,,,,,,,,,,,,Thailand
+,,,,,,,,,,,,,,,,,,,,,,,,,,Timor-Leste
+,,,,,,,,,,,,,,,,,,,,,,,,,,Vietnam
+,,,,,,,,,,,,,,,,,,,,,,,,,,Afghanistan
+,,,,,,,,,,,,,,,,,,,,,,,,,,Bangladesh
+,,,,,,,,,,,,,,,,,,,,,,,,,,Bhutan
+,,,,,,,,,,,,,,,,,,,,,,,,,,India
+,,,,,,,,,,,,,,,,,,,,,,,,,,"Iran, Islamic Rep."
+,,,,,,,,,,,,,,,,,,,,,,,,,,Maldives
+,,,,,,,,,,,,,,,,,,,,,,,,,,Nepal
+,,,,,,,,,,,,,,,,,,,,,,,,,,Pakistan
+,,,,,,,,,,,,,,,,,,,,,,,,,,Sri Lanka
+,,,,,,,,,,,,,,,,,,,,,,,,,,Armenia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Azerbaijan
+,,,,,,,,,,,,,,,,,,,,,,,,,,Bahrain
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cyprus
+,,,,,,,,,,,,,,,,,,,,,,,,,,Georgia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Iraq
+,,,,,,,,,,,,,,,,,,,,,,,,,,Israel
+,,,,,,,,,,,,,,,,,,,,,,,,,,Jordan
+,,,,,,,,,,,,,,,,,,,,,,,,,,Kuwait
+,,,,,,,,,,,,,,,,,,,,,,,,,,Lebanon
+,,,,,,,,,,,,,,,,,,,,,,,,,,Oman
+,,,,,,,,,,,,,,,,,,,,,,,,,,Qatar
+,,,,,,,,,,,,,,,,,,,,,,,,,,Saudi Arabia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Syrian Arab Republic
+,,,,,,,,,,,,,,,,,,,,,,,,,,Turkey
+,,,,,,,,,,,,,,,,,,,,,,,,,,United Arab Emirates
+,,,,,,,,,,,,,,,,,,,,,,,,,,"Yemen, Rep."
+,,,,,,,,,,,,,,,,,,,,,,,,,,Belarus
+,,,,,,,,,,,,,,,,,,,,,,,,,,Bulgaria
+,,,,,,,,,,,,,,,,,,,,,,,,,,Czech Republic
+,,,,,,,,,,,,,,,,,,,,,,,,,,Hungary
+,,,,,,,,,,,,,,,,,,,,,,,,,,Poland
+,,,,,,,,,,,,,,,,,,,,,,,,,,Moldova
+,,,,,,,,,,,,,,,,,,,,,,,,,,Romania
+,,,,,,,,,,,,,,,,,,,,,,,,,,Russian Federation
+,,,,,,,,,,,,,,,,,,,,,,,,,,Slovak Republic
+,,,,,,,,,,,,,,,,,,,,,,,,,,Ukraine
+,,,,,,,,,,,,,,,,,,,,,,,,,,Denmark
+,,,,,,,,,,,,,,,,,,,,,,,,,,Estonia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Finland
+,,,,,,,,,,,,,,,,,,,,,,,,,,Iceland
+,,,,,,,,,,,,,,,,,,,,,,,,,,Ireland
+,,,,,,,,,,,,,,,,,,,,,,,,,,Latvia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Lithuania
+,,,,,,,,,,,,,,,,,,,,,,,,,,Norway
+,,,,,,,,,,,,,,,,,,,,,,,,,,Sweden
+,,,,,,,,,,,,,,,,,,,,,,,,,,United Kingdom
+,,,,,,,,,,,,,,,,,,,,,,,,,,Albania
+,,,,,,,,,,,,,,,,,,,,,,,,,,Bosnia and Herzegovina
+,,,,,,,,,,,,,,,,,,,,,,,,,,Croatia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Greece
+,,,,,,,,,,,,,,,,,,,,,,,,,,Italy
+,,,,,,,,,,,,,,,,,,,,,,,,,,Malta
+,,,,,,,,,,,,,,,,,,,,,,,,,,Montenegro
+,,,,,,,,,,,,,,,,,,,,,,,,,,Portugal
+,,,,,,,,,,,,,,,,,,,,,,,,,,Serbia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Slovenia
+,,,,,,,,,,,,,,,,,,,,,,,,,,Spain
+,,,,,,,,,,,,,,,,,,,,,,,,,,Austria
+,,,,,,,,,,,,,,,,,,,,,,,,,,Belgium
+,,,,,,,,,,,,,,,,,,,,,,,,,,France
+,,,,,,,,,,,,,,,,,,,,,,,,,,Germany
+,,,,,,,,,,,,,,,,,,,,,,,,,,Luxembourg
+,,,,,,,,,,,,,,,,,,,,,,,,,,Netherlands
+,,,,,,,,,,,,,,,,,,,,,,,,,,Switzerland
+,,,,,,,,,,,,,,,,,,,,,,,,,,Australia
+,,,,,,,,,,,,,,,,,,,,,,,,,,New Zealand
+,,,,,,,,,,,,,,,,,,,,,,,,,,Fiji
+,,,,,,,,,,,,,,,,,,,,,,,,,,Papua New Guinea
+,,,,,,,,,,,,,,,,,,,,,,,,,,Solomon Islands
+,,,,,,,,,,,,,,,,,,,,,,,,,,Vanuatu
+,,,,,,,,,,,,,,,,,,,,,,,,,,"Micronesia, Fed. Sts."
+,,,,,,,,,,,,,,,,,,,,,,,,,,Palau
+,,,,,,,,,,,,,,,,,,,,,,,,,,Kiribati
+,,,,,,,,,,,,,,,,,,,,,,,,,,Samoa
+,,,,,,,,,,,,,,,,,,,,,,,,,,Tonga
+,,,,,,,,,,,,,,,,,,,,,,,,,,Tuvalu
